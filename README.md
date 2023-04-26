@@ -13,4 +13,5 @@ The final versions of all smart contracts are given as well. They can be compile
 
 ## Current Production System:
 
-The dApp is currently deployed and accessible at: https://www.blockchain-surveys.com
+The dApp is currently not deployed anymore. 
+Thank you to everyone who used it and gave me valable feedback!
